@@ -1,3 +1,3 @@
 ## Setting Up Neovim
 
-Everything typically resides in `~/.configs/nvim`::wq:
+Everything typically resides in `~/.configs/nvim`
